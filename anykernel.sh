@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Perf Kernel  Thanks to @ shivatejapeddi and CafEx
+kernel.string=Perf Kernel Thanks to @ Dhruvgera
 do.devicecheck=1
 do.modules=0
 do.systemless=1
